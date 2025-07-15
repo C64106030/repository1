@@ -74,7 +74,7 @@ https://github.com/Illumina/manta/blob/master/docs/userGuide/installation.md
 ### BAM檔案 (已執行過Manta的檔案共986個)
 * 路徑：/home/bits_home05/TWB_BAM/
 
-* 檔案列表(編號, 樣本名稱, 檔案路徑)：/home/linyuchieh/mapping/0313_sample_number_986.csv
+* 檔案列表(編號, 樣本名稱, 檔案路徑)：sample_number_986.csv
 
 ### Reference fasta檔案
 * 路徑：/home/ruyin/bits_home03/dataset/taiwan_biobank/cm_Taiwan_biobank_test_5/data/genome/hg38_noalt.fa
